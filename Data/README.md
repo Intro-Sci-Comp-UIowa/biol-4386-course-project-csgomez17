@@ -8,12 +8,14 @@ Figure to reproduce (Fig 1):
 
 ![image](https://user-images.githubusercontent.com/125313559/223201783-ca1376ac-163f-4256-bd61-04c5a2787961.png)
 
-I downloaded the pdf and transefered the data from table 2 to an excel sheet that I labeled JA.xlxs
+I downloaded the pdf and transefered the data from table 2 to an excel sheet that I labeled Plant_Raw_Data.xlxs
 
-[JA (1).xlsx](https://github.com/csgomez17/JA_levels/files/10901844/JA.1.xlsx)
+[Plant_Raw_Data.xlsx](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-course-project-csgomez17/files/11358202/Plant_Raw_Data.xlsx)
+
+I did deleted the "tip" after L1P8, L6P8 and L8P10 since it was specifiedd only thsoe were used and i wanted the x-axis to match the original graph.
 
 Then I converted this file into a csv file to be able to use it for R.
-[JA .csv](https://github.com/csgomez17/JA-levels-in-developmental-transition/files/10911829/JA.csv)
+ [Plant_Raw_Data.csv](https://github.com/Intro-Sci-Comp-UIowa/biol-4386-course-project-csgomez17/files/11358203/Plant_Raw_Data.csv)
 
 
-All of this was done on 02/28/2023
+All of this was done on 04/27/2023
